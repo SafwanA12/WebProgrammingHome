@@ -1,0 +1,85 @@
+html {
+    background:url("hwbg.PNG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p
+{
+    font-family: sans-serif;
+    font-size: large;
+    color: goldenrod;
+
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 50%;
+    border: 2px solid #ddd;
+}
+
+th, td {
+    text-align: center;
+    padding: 16px;
+}
+tr:nth-child(odd) {
+    background-color: navajowhite;
+}
+tr:nth-child(even) {
+    background-color: goldenrod;
+}
+h3 {
+
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+    color: goldenrod;
+}
+
+
+
+h4 {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: large;
+    color: goldenrod;
+}
+ul, li,ol {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: large;
+    color: goldenrod;
+}
+
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+    color: goldenrod;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: goldenrod;
+
+}
+a:hover {
+    background-color: red;
+
+}
+.BigRed{
+    color: red;
+    font-weight: bolder;
+}
+footer {
+    font-family: sans-serif;
+    font-size: large;
+    background: goldenrod;
+}
+
